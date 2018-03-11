@@ -1,6 +1,6 @@
 # Nitro-Nutes
 
-"grow what you want"
+*grow what you want*
 
 ## Overview
 
